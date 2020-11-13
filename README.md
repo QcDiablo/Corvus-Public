@@ -34,3 +34,4 @@ Until then, v1.9.x will be used as more polish and features are added.
 - More admin commands
 - Rearrange the command permissions (with a new bot admin level)
 - Target members without pinging
+- Trying to implement AJAX, because AJAX is cool
