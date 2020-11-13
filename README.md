@@ -11,13 +11,13 @@ Simply put, it's to collect feedback, bug reports and to make the development pu
 
 ## State
 ###### TL;DR: Atrocious
-As it stands currently, this reposity contains a completely broken collection of code pieces.
+As it stands currently, the v2 working reposity contains a completely broken collection of code pieces.
 
 Since this is to become the second major version of Corvus, v2.0.0 will be the version number when all this mess has been cleared up and reorganized into a fully working Discord bot with new and vastly improved features compared to its predecessor.\
 Until then, v1.9.x will be used as more polish and features are added.
 
 ## Roadmap
-###### Last update: 11.13.2020
+###### Last roadmap update: 11.13.2020
 
 ### Fun stuff
 - Achievements part 2
