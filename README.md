@@ -20,7 +20,7 @@ Until then, v1.9.x will be used as more polish and features are added.
 ###### Last update: 11.13.2020
 
 ### Fun stuff
-- Achievements part II
+- Achievements part 2
 - Squads page
 - Dashboard updates (and fixes)
 - News page
