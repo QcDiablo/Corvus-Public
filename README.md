@@ -2,11 +2,11 @@
 Discord bot "Corvus" for the Ravens in Black gaming guild.\
 [Ravens in Black website](https://ravens-in-black.herokuapp.com/ "Ravens in Black")
 
-### This repository
+#### This repository
 Corvus-Public is, as the name implies, the public face of Corvus' development.\
 What that means is that the actual source code isn't in this repository.
 
-What is the use of this, then?\
+#####What is the use of this, then?\
 Simply put, it's to collect feedback, bug reports and to make the development public to everyone, to enable more transparency.
 
 ## State
