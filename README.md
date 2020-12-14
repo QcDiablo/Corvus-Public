@@ -1,4 +1,4 @@
-# Corvus
+# Corvus (public documentation)
 Discord bot "Corvus" for the Ravens in Black gaming guild.\
 [Ravens in Black website](https://ravens-in-black.herokuapp.com/ "Ravens in Black")
 
